@@ -1,7 +1,5 @@
 # 🧑‍💻 Eragod
 
-**`Software Engineering Student`**
-
 ---
 
 ### 🧰 Languages and Tools
